@@ -1,5 +1,5 @@
 # 1. Overview
-We explore temporal locality using statistics to optimize TBN prefetching policy. 
+We explore temporal locality using statistics to optimize original TBN prefetching policy implemented by NVIDIA CUDA drivers. 
 
 # 2. Performance Evaluation 
 We measure performance with Rodinia Benchmark
