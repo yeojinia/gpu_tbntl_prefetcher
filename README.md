@@ -12,7 +12,7 @@ For SRAD we got a speed up of 15 percent in the unlimited memory case, and a spe
 ![alt text](https://github.com/yeojinia/gpu_tbntl_prefetcher/blob/main/unlimited_memory_result.PNG?raw=true)
 
 # 4. Contributors
-Yeojin Kim
-Josiah Blaisdell
+Yeojin Kim,
+Josiah Blaisdell,
 SangYeon Lee
 
