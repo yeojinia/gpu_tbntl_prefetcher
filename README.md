@@ -3,6 +3,7 @@ We explore temporal locality using statistics to optimize TBN prefetching policy
 
 # 2. Result
 ![alt text](https://github.com/yeojinia/gpu_tbntl_prefetcher/blob/main/limited_memory_result.png?raw=true)
+![alt text](https://github.com/yeojinia/gpu_tbntl_prefetcher/blob/main/unlimited_memory_result.PNG?raw=true)
 
 # 3. Performance Evaluation 
 We measure performance with Rodinia Benchmark
